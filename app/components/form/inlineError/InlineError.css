@@ -1,0 +1,8 @@
+.inline__error {
+    color: maroon;
+    font-size: 14px;
+    display: block;
+    margin-top: -10px;
+    margin-left: 5%;
+    margin-bottom: 15px;
+}

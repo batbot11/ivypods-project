@@ -1,0 +1,34 @@
+.form__input--text {
+  display: block;
+  line-height: 2;
+  width: 90%;
+  margin-left: 5%;
+  margin-bottom: 20px;
+  margin-top: 5px;
+}
+
+.forminput__label {
+  margin-left: 5%;
+}
+
+.forminput__radio--text {
+    display: block;
+    margin-left: 5%;
+    margin-top: 20px;
+}
+
+.forminput__radio {
+    display: inline-block;
+    margin-right: 25px;
+    margin-top: 10px;
+    margin-left: 31px;
+}
+
+.forminput__select--container {
+  display: inline-block;
+}
+
+.forminput__select {
+  margin-top: 5px;
+  margin-bottom: 20px;
+}

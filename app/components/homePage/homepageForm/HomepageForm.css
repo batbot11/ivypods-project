@@ -1,0 +1,56 @@
+html, body {
+    background: url(../../../images/background.jpg);
+}
+
+
+.homepage__form--container {
+  display: flex;
+  justify-content: center;
+}
+
+.homepage__form {
+  width: 30%;
+  border-radius: 5px;
+  background-color: #efefef;
+  border: 1px solid black;
+  padding: 20px 0px;
+  box-shadow: 0 0 10px 1px #999;
+  color: #000000;
+}
+
+.forminput__btn--next {
+  border: none;
+  background-color: inherit;
+  float: right;
+  margin-top: 15%;
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+.forminput__btn--prev {
+  border: none;
+  background-color: inherit;
+  float: left;
+  margin-top: 15%;
+  margin-left: 5px;
+  cursor: pointer;
+}
+
+.homepage__arrow {
+  display: inline-block;
+}
+
+.formfield__title {
+  display: block;
+  margin-left: 5%;
+  margin-bottom: -5px;
+}
+
+.form__btn--submit {
+  float: right;
+  margin-right: 5%;
+  margin-top: 55px;
+  padding: 5px 10px;
+  border-radius: 5px;
+  background-color: darkgrey;
+}
